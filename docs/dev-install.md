@@ -1,4 +1,4 @@
-# Installation
+# Developer Installation Guide
 As a developer, you need to install dependencies to work with the project. First, clone the [simpliplay-builder repository](https://github.com/A-Star100/simpliplay-builder), or [download
 its code as a ZIP file](https://github.com/A-Star100simpliplay-builder/archive/refs/heads/main.zip).
 
