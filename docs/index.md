@@ -18,5 +18,5 @@ In these docs, you'll learn how to use  use SimpliPlay to the fullest in develop
 Take a look at the [User installation guide](user-install.md) to get started with SimpliPlay.
 
 ## For Developers
-Get started by installing dependencies by taking a look at the [Installation process](installation.md)
+Get started by installing dependencies by taking a look at the [Developer installation guide](dev-install.md).
 
