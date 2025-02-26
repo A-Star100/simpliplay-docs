@@ -36,7 +36,7 @@ html_static_path = ['_static']
 html_domain_indices = False
 html_use_index = False
 html_show_sphinx = False
-htmlhelp_basename = 'MusicforGeeksandNerdsdoc'
+htmlhelp_basename = 'SimpliPlaydoc'
 html_show_sourcelink = False
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -61,8 +61,8 @@ latex_elements = {
 latex_additional_files = ["mfgan-bw.sty", "mfgan.sty", "_static/cover.png"]
 
 latex_documents = [
-  ('index', 'music-for-geeks-and-nerds.tex', u'Music for Geeks and Nerds',
-   u'Pedro Kroger', 'manual'),
+  ('index', 'simpliplay-docs.tex', u'SimpliPlay Docs',
+   u'Anirudh Sevugan', 'manual'),
 ]
 
 latex_show_pagerefs = False
