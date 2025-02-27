@@ -66,3 +66,5 @@ have to develop our own media decoders like VLC used to in its earlier days... :
 
 _____________
 
+To learn more about SimpliPlay under-the-hood, it's best to [install the app first](https://simpliplay-docs.readthedocs.io/en/latest/General/user-install/).
+You can emulate it, hack it, whatever. It's open-source anyway. So as long as you don't use the app for *any* malicious purposes, we're OK with whatever path you take :)
