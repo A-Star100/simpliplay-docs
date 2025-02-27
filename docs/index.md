@@ -5,9 +5,9 @@ SimpliPlay is available for the following platforms:
 
 | Platform | Framework |
 | ----------- | ----------- |
-| Android | App Inventor (Main ver.) & Flutter (Neo ver.) |
-| Windows, macOS, and Linux | Electron |
-| iOS (Beta) | SwiftUI |
+| Android | [App Inventor](https://appinventor.mit.edu/) (Main ver.) & [Flutter](https://flutter.dev) (Neo ver.) |
+| Windows, macOS, and Linux | [Electron](https://electronjs.org) |
+| iOS (Beta) | SwiftUI + Swift |
 | Web | HTML, CSS, and JavaScript (vanilla Web) |
 
 In these docs, you'll learn how to use  use SimpliPlay to the fullest in development as a developer, and learn a bit of things along the way as a user.
