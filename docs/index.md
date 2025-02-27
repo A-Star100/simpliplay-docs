@@ -6,9 +6,7 @@ SimpliPlay is available for the following platforms:
 | Platform | Framework |
 | ----------- | ----------- |
 | Android | App Inventor (Main ver.) & Flutter (Neo ver.) |
-| Windows | Electron |
-| macOS | Electron |
-| Linux | Electron |
+| Windows, macOS, and Linux | Electron |
 | iOS (Beta) | SwiftUI |
 | Web | HTML, CSS, and JavaScript (vanilla Web) |
 
@@ -18,5 +16,5 @@ In these docs, you'll learn how to use  use SimpliPlay to the fullest in develop
 Take a look at the [User installation guide](user-install.md) to get started with SimpliPlay.
 
 ## For Developers
-Get started by installing dependencies by taking a look at the [Developer installation guide](dev-install.md).
+Get started by installing dependencies by taking a look at the [Developer installation guide](https://simpliplay-docs.readthedocs.io/en/latest/Developers/dev-install/).
 
