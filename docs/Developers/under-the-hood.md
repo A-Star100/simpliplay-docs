@@ -4,9 +4,7 @@ SimpliPlay is a simple-to-use video player app that supports HLS and MPEG-DASH o
 But under the hood how it works can get complicated, especially for the native versions. Let's dive in.
 
 ## Android
-SimpliPlay Android uses [ExoPlayer 2](https://www.google.com/search?q=exoplayer+2&rlz=1C5CHFA_enUS919US919&oq=exoplayer+2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTQyMWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8)
-under the hood [Media3](https://developer.android.com/media/media3) is the latest Android media player, but due to the development starting with ExoPlayer 2 because of cost issues,
-ExoPlayer 2 (although deprecated) is still used in the SimpliPlay app for Android platforms.
+SimpliPlay Android uses [ExoPlayer 2](https://www.google.com/search?q=exoplayer+2&rlz=1C5CHFA_enUS919US919&oq=exoplayer+2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTQyMWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8) under the hood, even though [Media3](https://developer.android.com/media/media3) is the latest Android media player library in the ExoPlayer series, but due to the development starting with ExoPlayer 2 (although the library is deprecated) because of cost issues, it is still used in the SimpliPlay app for Android platforms (unless you're using the Neo version. Learn more about it [here](https://simpliplay-docs.readthedocs.io/en/latest/General/two-versions/)).
 
 ExoPlayer and Media3 ExoPlayer are Android-native media player libraries developed by Google. Unlike the dated MediaPlayer library, there is less system integration (ExoPlayer often
 requires the use of packages inside your app for features like MPEG-DASH, HLS, RTSP, VP8/VP9, and more), and the library is more third-party-esque.
