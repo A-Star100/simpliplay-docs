@@ -1,6 +1,7 @@
 site_name: SimpliPlay Docs
 theme:
   name: material
+  custom_dir: custom/
   palette:
     scheme: slate  # Light: "default", Dark: "slate"
     primary: blue
