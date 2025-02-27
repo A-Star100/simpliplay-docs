@@ -10,7 +10,7 @@ SimpliPlay is available for the following platforms:
 | iOS (Beta) | [SwiftUI](https://developer.apple.com/xcode/swiftui/) |
 | Web | HTML, CSS, and JavaScript (vanilla Web) |
 
-In these docs, you'll learn how to use  use SimpliPlay to the fullest in development as a developer, and learn a bit of things along the way as a user.
+In these docs, you'll learn about SimpliPlay, what tools it uses under the hood, and more about the app!
 
 ## For Users
 Take a look at the [User installation guide](https://simpliplay-docs.readthedocs.io/en/latest/General/user-install/) to get started with SimpliPlay.
