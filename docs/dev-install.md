@@ -48,8 +48,9 @@ ____________________________________________
 
 Keep in mind that these tools can be **quite large**. XCode by itself is **16 GB**, and that's only the space for the app! You'll need at least **40 GB** of free space to install everything needed to use XCode!
 
-Now that you've installed dependencies, you can take a look at how to work with the source:
+Now that you've installed dependencies, you can take a look at how to work with the source or learn more about how SimpliPlay works under the hood:
 
 1. [Android source wiki](https://github.com/A-Star100/simpliplay-android/wiki)
 2. [Desktop source wiki](https://github.com/A-Star100/simpliplay-desktop/wiki)
 3. [iOS repository](https://github.com/A-Star100/simpliplay-ios)
+4. [SimpliPlay: Under The Hood](https://simpliplay-docs.readthedocs.io/en/latest/Developers/under-the-hood)
