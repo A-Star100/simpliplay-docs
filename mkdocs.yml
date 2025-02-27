@@ -10,3 +10,6 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.highlight
+
+extra_css:
+  - custom/font.css  # Custom CSS file
