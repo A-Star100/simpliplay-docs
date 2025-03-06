@@ -10,10 +10,15 @@ ExoPlayer and Media3 ExoPlayer are Android-native media player libraries develop
 requires the use of packages inside your app for features like MPEG-DASH, HLS, RTSP, VP8/VP9, and more), and the library is more third-party-esque.
 
 SimpliPlay for Android supports a lot of things:
+
 1. Embedded audio and subtitle tracks
+
 2. Subtitle tracks
+  
 3. Playlists
+
 4. HLS and MPEG-DASH
+  
 5. Most video formats that ExoPlayer and MediaPlayer support
 ______________
 
@@ -26,9 +31,6 @@ integrated with each other.
 
 MediaPlayer is also an activity, but *any* interaction with most useful APIs requires the use of the MediaCompat library, which is officially deprecated, since MediaPlayer was designed to be bare-bones. MediaPlayer isn't recommended by
 Google anymore to be used in media playback apps, since even deprecated versions of ExoPlayer like ExoPlayer 2 provide a *far* superior experience and feature set compared to MediaPlayer.
-
-MediaCompat was also usable in ExoPlayer, but modern use practices stray away from MediaCompat and use newer APIs like MediaSession and MediaBroadcast that are integrated with ExoPlayer 2,
-and best integrated with Media3.
 
 ## iOS
 SimpliPlay iOS uses [AVPlayer](https://developer.apple.com/documentation/avfoundation/avplayer/) under the hood, which is a native Apple-exclusive media player framework part of the
