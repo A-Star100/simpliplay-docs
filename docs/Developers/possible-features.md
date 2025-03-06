@@ -23,5 +23,5 @@ Users could then join Media Share anywhere on any Wi-Fi using the cloud service'
 Watch Party is like the Media Share feature, but no syncing is involved. We've also created [MovieServer](https://aboutmovieserver.netlify.app), which has a watch party feature built-in.
 We could modify the existing chat server/watch party within MovieServer so that it works with SimpliPlay's Watch Party feature.
 
-It wouldn't cost anything because the server would still be LAN-based, it would be much safer because CORS is disabled, it would be perfect. But it seems like too much of a
+It wouldn't cost anything because the server would still be LAN-based, *and* it would be much safer because CORS is disabled; it would be perfect. But it seems like too much of a
 **distracting feature**. Users can always set up Watch Party themselves instead of using SimpliPlay, it could be its own thing.
