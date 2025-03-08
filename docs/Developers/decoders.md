@@ -7,7 +7,7 @@ happen on modern devices):
 
 - Older devices often come with less media decoders for formats. Versions of Android older than 5.0 (Lollipop) lack native support for HEVC, and
   versions older than 4.4 (KitKat) lack native support for VP9. This means that no media player in SimpliPlay can play those formats on those versions of Android.
-  This affects many formats, although if you're using a modern version of Android (like Android 10+), you shouldn't have to worry about format and codec support.
+  This affects some formats, but if you're using a modern version of Android (like Android 10+), you shouldn't have to worry about format and codec support.
 
 - Some (rare) devices come shipped with customized/broken decoders. These decoders may have trouble interacting with the media players supported in SimpliPlay, thus resulting in a
   different playback experience on those devices, which increases inconsistency and unreliability. But due to this, most Android firmware sticks to the original decoders.
