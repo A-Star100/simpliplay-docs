@@ -1,6 +1,5 @@
 # Consoles
-Gaming consoles are a territory difficult to grasp, especially for smaller, community projects like SimpliPlay, which is currently in need of a proper development team. As of now, only I
-have maintained all ports of this project (with an AI assistant for some help,), along with these docs. To support SimpliPlay, consider contributing or become a GitHub Contributor.
+Gaming consoles are a territory difficult to grasp, especially for smaller, community projects like SimpliPlay, which is currently in need of a proper development team. To support SimpliPlay, consider contributing or become a GitHub Contributor.
 It would help grow this small project, but you don't have to if you don't want to.
 
 ## For Xbox
