@@ -10,7 +10,7 @@ embed the web app with [WebView2](https://learn.microsoft.com/en-us/microsoft-ed
 
 **UWP apps require Windows, but other .NET frameworks still work on macOS and Linux as well**.
 
-[You may download the port here]().
+[You may download the port here](https://www.dropbox.com/scl/fi/gt9errf3b6kk6nzcaedzu/wwwroot.zip?rlkey=5gktt0fydaa6zca43zojdntoz&st=x1pk2qon&dl=1).
 Note that this port is only the contents of a regular `wwwroot` folder in a Blazor project. Copy these contents into your Blazor project's `wwwroot` folder.
 
 You can create a Blazor project with .NET like this:
