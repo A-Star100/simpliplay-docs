@@ -1,6 +1,5 @@
 # Consoles
 Gaming consoles are a territory difficult to grasp, especially for smaller, community projects like SimpliPlay, which is currently in need of a proper development team. To support SimpliPlay, consider contributing or become a GitHub Contributor.
-It would help grow this small project, but you don't have to if you don't want to.
 
 ## For Xbox
 We currently have an experimental [BlazorWASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) port of SimpliPlay. Since BlazorWASM is not supported
