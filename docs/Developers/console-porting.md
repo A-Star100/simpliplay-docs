@@ -8,7 +8,7 @@ We currently have an experimental [BlazorWASM](https://dotnet.microsoft.com/en-u
 on Xbox, this can be ported to a [UWP (Universal Windows Platform)](https://learn.microsoft.com/en-us/windows/uwp/) application which will
 embed the web app with [WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2/) (the web view used in legacy Microsoft Edge, before it migrated to Chromium).
 
-UWP apps **require Windows, but other .NET frameworks still work on macOS and Linux as well**.
+**UWP apps require Windows, but other .NET frameworks still work on macOS and Linux as well**.
 
 [You may download the port here]().
 Note that this port is only the contents of a regular `wwwroot` folder in a Blazor project. Copy these contents into your Blazor project's `wwwroot` folder.
