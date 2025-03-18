@@ -15,24 +15,31 @@ You can create a Blazor project with .NET like this:
 
 1. Install .NET if you haven't. `dotnet` is cross-platform (UWP apps require Windows however). (You may use Chocolatey, Microsoft installers for Windows, or Homebrew for macOS and Linux).
 2. Create a BlazorWASM project like this:
-   ```shell
+   
+   ```
    dotnet new blazorwasm -n MediaPlayerApp
    cd MediaPlayerApp
    ```
-3. After copying the contents of the port you downloaded into `MediaPlayerApp`'s `wwwroot` folder, publish a release with:
-   ```shell
+   
+4. After copying the contents of the port you downloaded into `MediaPlayerApp`'s `wwwroot` folder, publish a release with:
+   
+   ```
+   
    dotnet publish -c Release 
    ```
+   
    (This process can take 15 seconds or more to complete).
 
-4. To test your output in a web browser, start an HTTP server of your choice (in this case Python 3) with:
-   ```shell
+6. To test your output in a web browser, start an HTTP server of your choice (in this case Python 3) with:
+   
+   ```
    # If you are not currently in ~/MediaPlayerApp before executing, "cd ~/MediaPlayerApp~".
    cd ./bin/Release/net9.0/publish/wwwroot
    python3 -m http.server 8080
    ```
+   
    In order to perform other .NET related actions, make sure to change the current working directory back to `~/MediaPlayerApp`.
    Then, to test, visit [http://localhost:8080](http://localhost:8080) in your browser (or a custom port number if you chose one).
 
 ## Other Consoles
-We have no port available for consoles other than Xbox. You can try making one yourself.
+We have no ports available for consoles other than Xbox. You can try making one yourself.
