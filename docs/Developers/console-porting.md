@@ -18,6 +18,7 @@ You can create a Blazor project with .NET like this:
    
    `
    dotnet new blazorwasm -n MediaPlayerApp
+   &&
    cd MediaPlayerApp
    `
    
@@ -33,6 +34,7 @@ You can create a Blazor project with .NET like this:
    
    ```
    cd ~/MediaPlayerApp/bin/Release/net9.0/publish/wwwroot
+   &&
    python3 -m http.server 8080
    ```
    
