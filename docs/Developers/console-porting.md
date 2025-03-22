@@ -17,9 +17,7 @@ You can create a Blazor project with .NET like this:
 2. Create a BlazorWASM project like this:
    
    `
-   dotnet new blazorwasm -n MediaPlayerApp
-   &&
-   cd MediaPlayerApp
+   dotnet new blazorwasm -n MediaPlayerApp && cd MediaPlayerApp
    `
    
 4. After copying the contents of the port you downloaded into `MediaPlayerApp`'s `wwwroot` folder, publish a release with:
