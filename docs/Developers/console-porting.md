@@ -15,6 +15,7 @@ You can create a Blazor project with .NET like this:
 
 1. Install .NET if you haven't. `dotnet` is cross-platform (UWP apps require Windows however). (You may use Chocolatey, Microsoft installers for Windows, or Homebrew for macOS and Linux).
 2. Create a BlazorWASM project like this:
+   
    `
    dotnet new blazorwasm -n MediaPlayerApp
    cd MediaPlayerApp
