@@ -31,8 +31,7 @@ You can create a Blazor project with .NET like this:
 6. To test your output in a web browser, start an HTTP server of your choice (in this case Python 3) with:
    
    ```
-   # If you are not currently in ~/MediaPlayerApp before executing, add "cd ~/MediaPlayerApp".
-   cd ./bin/Release/net9.0/publish/wwwroot
+   cd ~/MediaPlayerApp/bin/Release/net9.0/publish/wwwroot
    python3 -m http.server 8080
    ```
    
