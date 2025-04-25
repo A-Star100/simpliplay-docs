@@ -1,4 +1,6 @@
-# simpliplay-docs
-This is the old version of SimpliPlay's documentation when it relied on ReadTheDocs.io, before it migrated to Docusaurus.
+# Website
 
-**Old Description:** SimpliPlay documentation via ReadTheDocs.io
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+
+### SimpliPlay Docs
+Documentation for SimpliPlay.
