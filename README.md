@@ -21,9 +21,9 @@ To build for production use (in static site generators like GitHub Pages, Netlif
 npm run build
 ```
 
-To test the build output for any unexpected errors, use:
+To serve the build output locally, use:
 ```shell
-npm run build
+npm run serve
 ```
 
 For more, visit the [Docusaurus website](https://docusaurus.io/).
