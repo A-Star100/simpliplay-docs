@@ -2,7 +2,7 @@
 Gaming consoles are a territory difficult to grasp, especially for smaller, community projects like SimpliPlay, which is currently in need of a proper development team. To support SimpliPlay, consider contributing or become a GitHub Contributor.
 
 ## For Xbox
-We currently have an experimental [BlazorWASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) port of SimpliPlay. Since BlazorWASM is not supported
+We currently have an experimental [BlazorWASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) port of SimpliPlay, which will not be maintained further. Since BlazorWASM is not supported
 on Xbox, this can be ported to a [UWP (Universal Windows Platform)](https://learn.microsoft.com/en-us/windows/uwp/) application which will
 embed the web app with [WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2/) (the web view used in legacy Microsoft Edge, before it migrated to Chromium).
 

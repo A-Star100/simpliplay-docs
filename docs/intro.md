@@ -13,8 +13,8 @@ SimpliPlay is available for the following platforms:
 In these docs, you'll learn about SimpliPlay, what tools it uses under the hood, and more about the app!
 
 ## For Users
-Take a look at the [User installation guide](https://simpliplay-docs.readthedocs.io/en/latest/General/user-install/) to get started with SimpliPlay.
+Take a look at the [User installation guide](https://simpliplay.netlify.app/docs/docs/General/user-install/) to get started with SimpliPlay.
 
 ## For Developers
-Get started by installing dependencies by taking a look at the [Developer installation guide](https://simpliplay-docs.readthedocs.io/en/latest/Developers/dev-install/).
+Get started by installing dependencies by taking a look at the [Developer installation guide](https://simpliplay.netlify.app/docs/docs/Developers/dev-install/).
 

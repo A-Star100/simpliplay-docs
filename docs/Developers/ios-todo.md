@@ -6,10 +6,15 @@ So, we've schedueled some improvements for mid-March to late-April that will:
 - Improve playlist functionality
 - Add more features whenever possible
 - Fix many bugs, such as the app resisting from being closed
-  And more!
+
+And more!
 
 Just you wait!
 
 ## What can us devs do about this?
 You can help by forking the repo and making a pull request to the [simpliplay-ios repo](https://github.com/A-Star100/simpliplay-ios)!
 Thank you so much for considering to help with development!
+
+### Apr 25. 2025
+As of now, the improvements have occured, but are mostly UI improvements.
+To learn more, visit the [simpliplay-ios repo](https://github.com/A-Star100/simpliplay-ios) on GitHub.
