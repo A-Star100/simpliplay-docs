@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/ide.svg').default,
     description: (
       <>
-        SimpliPlay is open-source, allowing even the average user to collaborate
+        SimpliPlay is open-source, allowing even the average user to improve the app
         if they can program.
       </>
     ),

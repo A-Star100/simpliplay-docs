@@ -22,8 +22,12 @@ SimpliPlay for Android supports a lot of things:
 5. Most video formats that ExoPlayer and MediaPlayer support
 ______________
 
-Under the hood, ExoPlayer does a lot of the work, whereas MediaPlayer is an alternative video player users may choose from. It's important to understand how these video players work.
+Under the hood, ExoPlayer does a lot of the work, whereas MediaPlayer is an alternative video player users may choose from. 
+
+:::important
+It's important to understand how these video players work.
 To do that, please read the [Android Developer docs](https://developer.android.com/media/audio-and-video).
+:::
 
 ExoPlayer 2 (in a simplified summary) is an activity in all Android apps that use it. Other activities can interact with the use of connectors. In Media3, connectors are no longer needed
 since most APIs like media broadcasting (so Google Assistant may control playback) and MediaSession (that's harder to explain, please read the docs for an in-depth talk abaout it) are

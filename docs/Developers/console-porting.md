@@ -2,11 +2,17 @@
 Gaming consoles are a territory difficult to grasp, especially for smaller, community projects like SimpliPlay, which is currently in need of a proper development team. To support SimpliPlay, consider contributing or become a GitHub Contributor.
 
 ## For Xbox
-We currently have an experimental [BlazorWASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) port of SimpliPlay, which will not be maintained further. Since BlazorWASM is not supported
+We currently have an experimental [BlazorWASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) port of SimpliPlay.
+:::warning
+This BlazorWASM port is stale and won't be maintained further. Any bugs you encounter in the port will be ignored.
+:::
+Since BlazorWASM is not supported
 on Xbox, this can be ported to a [UWP (Universal Windows Platform)](https://learn.microsoft.com/en-us/windows/uwp/) application which will
 embed the web app with [WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2/) (the web view used in legacy Microsoft Edge, before it migrated to Chromium).
 
+:::important
 **UWP apps require Windows (even for creation of a project), but most other .NET frameworks work on macOS and Linux as well**.
+:::
 
 [You may download the port here](https://www.dropbox.com/scl/fi/gt9errf3b6kk6nzcaedzu/wwwroot.zip?rlkey=5gktt0fydaa6zca43zojdntoz&st=x1pk2qon&dl=1).
 Note that this port is only the contents of a regular `wwwroot` folder in a Blazor project. Copy these contents into your Blazor project's `wwwroot` folder.
@@ -35,9 +41,10 @@ You can create a Blazor project with .NET like this:
    &&
    python3 -m http.server 8080
    `
-   
+   :::important
    In order to perform other .NET related actions, make sure to change the current working directory back to `~/MediaPlayerApp`.
    Then, to test, visit [http://localhost:8080](http://localhost:8080) in your browser (or a custom port number if you chose one).
+   :::
 
 ## Other Consoles
 We have no ports available for consoles other than Xbox. You can try making one yourself.

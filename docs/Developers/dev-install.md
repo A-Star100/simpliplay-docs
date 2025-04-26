@@ -45,8 +45,9 @@ and for `all.sh`, you can use 3 types of flags:
 ```
 
 ____________________________________________
-
+:::warning
 Keep in mind that these tools can be **quite large**. XCode by itself is **16 GB**, and that's only the space for the app! You'll need at least **40 GB** of free space to install everything needed to use XCode!
+:::
 
 Now that you've installed dependencies, you can take a look at how to work with the source or learn more about how SimpliPlay works under the hood:
 

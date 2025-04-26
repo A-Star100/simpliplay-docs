@@ -8,7 +8,11 @@ Once you've figured that out, click the appropriate download button and wait for
 
 If you're on iOS, you'll need to install [XCode](https://developer.apple.com/xcode/) (which is only possible on a Mac) and compile from source. In that case, take a look at the [developer installation guide](https://simpliplay-docs.readthedocs.io/en/latest/Developers/dev-install/).
 
+If you're on another operating system, just do the usual.
+
+:::tip
 If you encounter any security warnings, take a look at the [help center](https://simpliplay.netlify.app/help) for more info.
+:::
 
 
 
