@@ -12,7 +12,7 @@ npm install
 ```
 To test the server, use:
 ```shell
-npm run start
+npm start
 ```
 
 To build for production use (in static site generators like GitHub Pages, Netlify, Vercel etc), use:
