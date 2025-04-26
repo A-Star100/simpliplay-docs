@@ -73,6 +73,8 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
+          {to: '/docs/docs/intro', label: 'Docs', position: 'left'},
+          {to: '/docs/blog/welcome', label: 'Blog', position: 'left'},
           {to: 'https://simpliplay.netlify.app', label: 'Main', position: 'left'},
           {
             href: 'https://github.com/search?q=owner%3AA-Star100+simpliplay&type=repositories',
@@ -102,6 +104,19 @@ const config = {
             ],
           },
           {
+            title: 'Blog',
+            items: [
+              {
+                label: 'Welcome!',
+                to: '/docs/blog/welcome',
+              },
+              {
+                label: 'Lite Ver. Discontinued',
+                to: '/docs/blog/lite-ver-end',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
@@ -115,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2025 Anirudh Sevugan | Built with Docusaurus.`,
+        copyright: `Copyright © 2025 Anirudh Sevugan | Built with Docusaurus`,
       },
       prism: {
         theme: prismThemes.github,

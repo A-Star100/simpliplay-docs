@@ -1,0 +1,25 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Welcome pages or pages that just serve as a friendly hello for a section
+
+discontinued:
+  label: Discontinued
+  permalink: /discontinued
+  description: Pages about the discontinuation of a portion or a version of SimpliPlay
+
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Páginas de bienvenida o páginas que sólo sirven para saludar amistosamente a una sección
