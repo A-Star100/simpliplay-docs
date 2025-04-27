@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SimpliPlay Docs',
-  tagline: 'Official SimpliPlay documentation',
+  title: 'SimpliPlay',
+  tagline: 'Official documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -67,15 +67,16 @@ const config = {
       // Replace with your project's social card
       image: 'img/logo.png',
       navbar: {
-        title: 'SimpliPlay Docs',
+        title: 'SimpliPlay',
         logo: {
           alt: 'SimpliPlay logo',
           src: 'img/logo.png',
+          href: 'https://simpliplay.netlify.app'
         },
         items: [
           {to: '/docs/docs/intro', label: 'Docs', position: 'left'},
           {to: '/docs/blog/welcome', label: 'Blog', position: 'left'},
-          {to: 'https://simpliplay.netlify.app', label: 'Main', position: 'left'},
+          //{to: 'https://simpliplay.netlify.app', label: 'Main', position: 'left'},
           {
             href: 'https://github.com/search?q=owner%3AA-Star100+simpliplay&type=repositories',
             label: 'GitHub',
@@ -123,10 +124,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
+              /*{
                 label: 'Main',
                 to: 'https://simpliplay.netlify.app',
-              },
+              },*/
               {
                 label: 'GitHub',
                 href: 'https://github.com/search?q=owner%3AA-Star100+simpliplay&type=repositories',
