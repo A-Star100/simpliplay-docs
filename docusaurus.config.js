@@ -111,8 +111,8 @@ const config = {
                 to: '/docs/blog/welcome',
               },
               {
-                label: 'Lite Ver. Discontinued',
-                to: '/docs/blog/lite-ver-end',
+                label: 'Docs Migration',
+                to: '/docs/blog/docs-migration',
               },
               {
                 label: 'More',
