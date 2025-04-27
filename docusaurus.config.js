@@ -134,7 +134,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2025 Anirudh Sevugan | Built with Docusaurus`,
+        copyright: `Copyright © 2025 Anirudh Sevugan`,
       },
       prism: {
         theme: prismThemes.github,

@@ -19,3 +19,10 @@ It didn't fit with the rest of SimpliPlay's web presence, with a nicer UI that l
 It's been scraped off the internet and is no longer available online.
 
 If you really want to revive it, you can find its original source code [here](https://github.com/A-Star100/simpliplay-docs/tree/old-readthedocs), along with the source code for the new docs [here](https://github.com/A-Star100/simpliplay-docs/).
+
+____________
+
+The new docs are built with [Docusaurus](https://docusaurus.io/) (by [Meta](https://www.meta.com/)), which has a much cleaner UI, along with the ability to add a blog and it defaults to using [React](https://react.dev/), also by Meta, which can do a lot more than
+plain HTML, CSS, and JavaScript when used correctly and with the right knowledge.
+
+And regarding the reception we got, I think the docs will stay this way, with the new UI and all.
