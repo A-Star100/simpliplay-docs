@@ -114,6 +114,10 @@ const config = {
                 label: 'Lite Ver. Discontinued',
                 to: '/docs/blog/lite-ver-end',
               },
+              {
+                label: 'More',
+                to: '/docs/blog/',
+              }
             ],
           },
           {
