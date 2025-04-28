@@ -1,8 +1,6 @@
 # Welcome!
 Welcome to the official documentation for SimpliPlay, a cross-platform media player with various capabilities!
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NJabN_WH3ao" allow="fullscreen"></iframe>
-
 SimpliPlay is available for the following platforms:
 
 | Platform | Framework |
