@@ -116,7 +116,7 @@ const config = {
                 to: '/docs/blog/docs-migration',
               },
               {
-                label: 'More',
+                label: 'More articles',
                 to: '/docs/blog/',
               }
             ],
