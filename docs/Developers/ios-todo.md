@@ -1,7 +1,7 @@
 # iOS Improvements
-## Past
-SimpliPlay, while being on iOS, has a badly designed UI there, along with broken playlist functionality. It was made in a rush when it was created.
+SimpliPlay, while being on iOS, had a badly designed UI there, along with broken playlist functionality. It was made in a rush when it was created.
 
+## Past
 So, we've schedueled some improvements for mid-March to late-April that will:
 - Completely improve the app's design
 - Improve playlist functionality
