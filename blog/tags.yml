@@ -13,6 +13,16 @@ discontinued:
   permalink: /discontinued
   description: Pages about the discontinuation of a portion or a version of SimpliPlay
 
+online:
+  label: Online
+  permalink: /online
+  description: Pages about SimpliPlay's online presence
+
+socials:
+  label: Socials
+  permalink: /socials
+  description: Pages about SimpliPlay's social media presence
+
 
 #docusaurus:
   #label: Docusaurus
