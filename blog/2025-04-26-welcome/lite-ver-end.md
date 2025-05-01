@@ -3,6 +3,7 @@ slug: lite-ver-end
 title: Lite Ver. Discontinued
 authors: [anirudh]
 tags: [discontinued]
+sidebar_position: 3
 ---
 The Lite version of SimpliPlay has been a way to experience the app on lower-end desktop hardware.
 However, today, on April 26, 2025, we announce its discontinuation.

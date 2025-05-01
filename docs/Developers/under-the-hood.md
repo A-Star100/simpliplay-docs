@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # SimpliPlay: Under The Hood
 SimpliPlay is a simple-to-use video player app that supports HLS and MPEG-DASH on almost every platform (except iOS native, there only HLS is supported out of the two streaming protocols).
 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # SimpliPlay: Two Versions 
 In SimpliPlay, there are two different desktop and mobile versions.
 

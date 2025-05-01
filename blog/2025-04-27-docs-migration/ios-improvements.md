@@ -3,6 +3,7 @@ slug: ios-improvements
 title: iOS Improvements
 authors: [anirudh]
 tags: [update]
+sidebar_position: 4
 ---
 The previous version of SimpliPlay iOS had an unorganized UI, and broken features.
 So we needed to change it.

@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Welcome!
 Welcome to the official documentation for SimpliPlay, a cross-platform media player with various capabilities!
 

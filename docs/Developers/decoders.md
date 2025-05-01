@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # SimpliPlay's Decoders
 SimpliPlay uses different media decoders on different platforms. Here's a list of them:
 

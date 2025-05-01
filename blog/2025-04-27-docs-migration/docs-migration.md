@@ -3,6 +3,7 @@ slug: docs-migration
 title: Docs Migration
 authors: [anirudh]
 tags: [migration, update, discontinued]
+sidebar_position: 2
 ---
 Remember the old docs? The old documentation?
 It's changed since then.

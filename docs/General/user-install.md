@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # User Installation Guide
 Go to [SimpliPlay's official download page](https://simpliplay.netlify.app/#download-options), and download SimpliPlay. Your platform should be automatically selected based on your
 operating system, but if not just click on the spinner and change your platform if the detected result was incorrect.

@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Tutorials
 Wanna know how to use SimpliPlay? Here's a list of places where you can get tutorials!
 
