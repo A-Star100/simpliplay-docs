@@ -10,7 +10,7 @@ Next, you'll need to figure out your device's architecture. We assume you as the
 
 Once you've figured that out, click the appropriate download button and wait for the app to download. If you're on Android, scroll down and download an `.apk` file from the latest release (or whichever release you want to download).
 
-If you're on iOS, you'll need to install [XCode](https://developer.apple.com/xcode/) (which is only possible on a Mac) and compile from source. In that case, take a look at the [developer installation guide](https://simpliplay-docs.readthedocs.io/en/latest/Developers/dev-install/).
+If you're on iOS, you'll need to install [XCode](https://developer.apple.com/xcode/) (which is only possible on a Mac) and compile from source. In that case, take a look at the [developer installation guide](/docs/docs/Developers/dev-install/).
 
 If you're on another operating system, just do the usual.
 

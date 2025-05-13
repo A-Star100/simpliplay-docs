@@ -58,4 +58,4 @@ Now that you've installed dependencies, you can take a look at how to work with 
 1. [Android source wiki](https://github.com/A-Star100/simpliplay-android/wiki)
 2. [Desktop source wiki](https://github.com/A-Star100/simpliplay-desktop/wiki)
 3. [iOS repository](https://github.com/A-Star100/simpliplay-ios)
-4. [SimpliPlay: Under The Hood](https://simpliplay-docs.readthedocs.io/en/latest/Developers/under-the-hood)
+4. [SimpliPlay: Under The Hood](/docs/docs/Developers/under-the-hood)

@@ -18,6 +18,6 @@ Thank you so much for considering to help with development!
 
 ## Present
 The iOS improvements have occured to an extent.
-Read [this blog post](https://simpliplay.netlify.app/docs/blog/ios-improvements) for more.
+Read [this blog post](/docs/blog/ios-improvements) for more.
 
 

@@ -39,8 +39,28 @@ migration:
   permalink: /migration
   description: Pages about the migration from one framework to another for a portion or version of SimpliPlay or its website
 
+removal:
+  label: Removal
+  permalink: /removal
+  description: Pages about the removal of a feature in SimpliPlay
+
 update:
   label: Update
   permalink: /update
   description: Pages about a major or impactful minor update for a portion or version of SimpliPlay or its website
+
+idea:
+  label: Idea
+  permalink: /idea
+  description: Pages about an idea for a portion or version of SimpliPlay or its website
+
+new:
+  label: New
+  permalink: /new
+  description: Pages about a new version or feature in SimpliPlay
+
+finished:
+  label: Finished
+  permalink: /finished
+  description: Pages about finishing something in SimpliPlay, like a feature
 

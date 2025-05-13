@@ -13,4 +13,4 @@ to ensure you want to play the tutorial again even though you already played it 
 For now, no tutorials are available for this version.
 
 ## SimpliPlay iOS
-The same fate as the desktop version.
+For now, the same fate as the desktop version.
