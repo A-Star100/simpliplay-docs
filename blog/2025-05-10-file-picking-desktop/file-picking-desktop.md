@@ -31,7 +31,7 @@ sent by the OS instead of macOS-only `open-file` event listener.
 
 This meant that only **once** the current instance of the app finished loading,
 only the **first time**, would it send the message to actually **play** the
-file path sent by the OS, and previously it wasn't even URL encoded until [patch 1.0.5.2](https://github.com/A-Star100/simpliplay-desktop/releases/tag/release-1.0.5.2-win), whkch was a Windows-only patch!
+file path sent by the OS, and previously it wasn't even URL encoded until [patch 1.0.5.2](https://github.com/A-Star100/simpliplay-desktop/releases/tag/release-1.0.5.2-win), which was a Windows-only patch!
 
 Now, the event listener has been removed, meaning file picking should work every time now.
 Please help us test on every platform! This is a small project and we don't have much operating systems available to us
