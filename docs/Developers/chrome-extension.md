@@ -3,7 +3,7 @@ SimpliPlay is now available as a Google Chrome extension (read more about it in 
 
 It is based on the [Hello Extensions tutorial](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples/tutorial.hello-world) by [Chrome for Developers](http://developer.chrome.com/), and uses Manifest v3.
 
-It doesn't have any groundbreaking features that set it apart, portability is enough here, so it doesn't require permissions either.
+It is usable in a side panel, and a regular tab for extra portability.
 This extension is heavily based off of the web and desktop versions of SimpliPlay, with some features removed
 when needed (for example, the [add subtitles feature](/docs/blog/add-subtitles-removal)).
 
